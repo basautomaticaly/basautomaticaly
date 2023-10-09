@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Sergey
 #### I am computer science student
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-Skills: PYTHON | FASTAPI | AIOGRAM 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Skills:+PYTHON+|+FASTAPI+|+AIOGRAM)](https://git.io/typing-svg)
 
 
 
