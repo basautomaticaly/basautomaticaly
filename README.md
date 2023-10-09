@@ -1,7 +1,21 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/dfsdfsdfsdfsw2Greatter" target="_blank">Sergey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&width=435&lines=Computer+science+student" alt="Typing SVG" /></a>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+### Hi there 👋, my name is Sergey
+#### I am computer science student
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+Skills: PYTHON | FASTAPI | AIOGRAM 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/basautomaticaly)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=basautomaticaly&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/basautomaticaly)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=basautomaticaly)  
+
+
+
 <!--
 **basautomaticaly/basautomaticaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
