@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sergey
 #### I am computer science student
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Skills:+PYTHON+|+FASTAPI+|+AIOGRAM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Skills:+PYTHON+|+FASTAPI+|+AIOGRAM+|+ASYNCIO)](https://git.io/typing-svg)
 
 
 
